@@ -30,3 +30,5 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+.venv/
+org_noi-techpark_2025-07-22 11:53:54.553863723 +0200 CEST m=+7.255205661.json

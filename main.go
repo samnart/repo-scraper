@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2025 Awesome
+// SPDX-License-Identifier: MIT
+
 package main
 
 import (

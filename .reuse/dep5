@@ -1,0 +1,20 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: repo-scraper
+Upstream-Contact: samnart1 <your-email@example.com>
+Source: https://github.com/samnart/repo-scraper
+
+Files: *
+Copyright: 2023-2025 samnart1
+License: MIT
+
+Files: .gitignore
+Copyright: 2023-2025 samnart1
+License: CC0-1.0
+
+Files: *.md
+Copyright: 2023-2025 samnart1
+License: CC0-1.0
+
+Files: *.yml *.yaml
+Copyright: 2023-2025 samnart1
+License: MIT
