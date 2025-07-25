@@ -1,6 +1,7 @@
 # GitHub Repository Scraper
 
 [![REUSE status](https://api.reuse.software/badge/github.com/samnart/repo-scraper)](https://api.reuse.software/info/github.com/samnart/repo-scraper)
+
 A flexible and powerful command-line tool written in GoLang to scrape public repositories from GitHub organizations and users. Originally built for Open Data Hub but works with any GitHub account (org, user).
 
 ## Features
